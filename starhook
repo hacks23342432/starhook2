@@ -1,3 +1,11 @@
+--[[
+
+]]
+
+
+
+local Drawing = loadstring(game:HttpGet("https://raw.githubusercontent.com/linemaster2/storage/main/Drawing.lua"))();
+
 local Library = {};
 do
 	Library = {
